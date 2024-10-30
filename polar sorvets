@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Polar Sorvetes</title>
+	<!--Vinculando o css externo -->
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+	<header>
+		<h>POLAR SORVETES </h>
+        <h1>COM VARIAS VARIEDADES E SABORES DIFERENTES 
+	</header>
+
+	<section>
+		<p class="destaque"> um sorvete maravilhoso para esse calor.</p>
+		<p>Este é o parágrafo normal.</p>
+	</section>
+
+	<footer>
+		<p id="rodape"> Isso permite colocar um rodapé na página.</p>
+	</footer>
+</body>
+</html>
