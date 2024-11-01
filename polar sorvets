@@ -15,11 +15,11 @@
 
 	<section>
 		<p class="destaque"> um sorvete maravilhoso para esse calor.</p>
-		<p>Este é o parágrafo normal.</p>
+		<p> FABRICA.</p>
 	</section>
 
 	<footer>
-		<p id="rodape"> Isso permite colocar um rodapé na página.</p>
+		<p id="rodape"> contato:440800734.</p>
 	</footer>
 </body>
 </html>
