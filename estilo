@@ -1,0 +1,38 @@
+/* Estilos gerais para todo o corpo do texto */
+body {
+	font-family: Arial, sans-serif;
+	background-color: #842dba;
+	margin: 5;
+	padding: 3;
+}
+
+/* Estilo para o cabeçalho */
+header {
+	background-color:#322dba;
+	color: white;
+	text-align: center;
+	padding: 20px;
+}
+
+/* Estilo para o parágrafo com a classe destaque */
+.destaque {
+	color: #c922b0;
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* Estilo para o rodapé */
+footer {
+	background-color: #02011a;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	bottom: 0;
+	width: 100%;
+}
+
+/* Estilo específico para o parágrafo com o ID rodapé */
+#rodape {
+	font-size: 14px;
+	color: #ccc;
+}
